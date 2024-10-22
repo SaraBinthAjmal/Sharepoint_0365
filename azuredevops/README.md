@@ -1,1 +1,0 @@
-# This is the Git hub repo to showcase my work in Azure 
